@@ -195,6 +195,8 @@ DROP TABLE students;
 
 DROP DATABASE pbj;
 ```
+<!--   " = Column table-->
+<!--   ' = string-->
 
 ## Where's all this data stored, anyway?
 
